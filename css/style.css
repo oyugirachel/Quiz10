@@ -17,19 +17,24 @@ h2{
 	color: white;
 	text-align: center;
 	font-size: 50px;
+	font-family: sans-serif;
 
 }
 h3{
 	color: #fae502;
 	text-align: center;
+	font-family: roboto;
 
 }
 body{
 	background-color: #b3aeb8;
+	color:grey;
+	font-size: 20px;
 }
 .break{
 	margin-left: 160px;
 	margin-right:160px;
+	font-family: serif;
 
 }
 h4{
@@ -92,7 +97,9 @@ p{
 footer{
 	text-align: left;
 	background-color: #41597d;
-	padding:30px;
+	padding:20px;
+	margin-top:20px;
+	padding-right: 20px;
 
 }
 h5{
@@ -110,15 +117,23 @@ table {
 }
 td{
 	vertical-align: bottom;
+	padding:20px;
+	border-left: 1px solid #ddd;
 }
 
 th, td {
-  padding: 8px;
+  padding: 10px;
   text-align: left;
   border-bottom: 1px solid #ddd;
   background-color: white;
+ 
 }
 th {
   background-color: #fae502;
   color: #4159d;
+
+}
+h7{
+	color: grey;
+	font-weight: bold;
 }
