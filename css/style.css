@@ -27,9 +27,9 @@ h3{
 
 }
 body{
-	background-color: #b3aeb8;
-	color:grey;
-	font-size: 20px;
+	background-color: #b3aeb8 !important;
+	color:grey !important;
+	font-size: 20px !important;
 }
 .break{
 	margin-left: 160px;
@@ -93,6 +93,13 @@ p{
 	float:right;
 	/*padding-left: 150px;*/
 
+}
+.about{
+	margin-top: 40px;
+}
+.middle{
+	margin-left: 160px;
+	margin-right:160px;
 }
 footer{
 	text-align: left;
